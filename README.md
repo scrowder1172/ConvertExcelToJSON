@@ -16,7 +16,7 @@ If you find a bug or would like to submit an improvement to this project, please
 
 ## Known issues (work in progress)
 
-The project is currently working 🤞
+The project is currently working
 
 ## Like this project?
 
